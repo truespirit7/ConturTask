@@ -5,7 +5,7 @@
     <h1 align="center">Yii 2 Basic Project Template</h1>
     <br>
 </p>
-Тестовое задание от Андреева Д. А.
+<h1 align="center">Тестовое задание от Андреева Д. А.</h1>
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
@@ -42,11 +42,12 @@ The minimum requirement by this project template that your Web server supports P
 
 INSTALLATION
 ------------
-Для установки:
+<br>Для установки:
 cd basic
 composer install
 php yii migrate y
 в файле config/params.php изменить почту в поле "adminEmail" на свою.
+</br>
 ### Install via Composer
 
 If you do not have [Composer](http://getcomposer.org/), you may install it by following the instructions
