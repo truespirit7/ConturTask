@@ -6,16 +6,13 @@
     <br>
 </p>
 <h1 align="center">Тестовое задание от Андреева Д. А.</h1>
-INSTALLATION
-------------
+
 ```php
    Для установки выполните:
             cd basic
             composer install
 	    создайте базу данных с названием task_db
-            php yii migrate y
-			
-			
+            php yii migrate y	
             в файле config/params.php изменить почту в поле "adminEmail" на свою.
 ```
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
