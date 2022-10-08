@@ -42,11 +42,11 @@ The minimum requirement by this project template that your Web server supports P
 
 INSTALLATION
 ------------
-<br>Для установки:
-cd basic
-composer install
-php yii migrate y
-в файле config/params.php изменить почту в поле "adminEmail" на свою.
+<br>    Для установки:
+            cd basic
+            composer install
+            php yii migrate y
+            в файле config/params.php изменить почту в поле "adminEmail" на свою.
 </br>
 ### Install via Composer
 
